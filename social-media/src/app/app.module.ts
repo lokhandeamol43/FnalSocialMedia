@@ -24,6 +24,7 @@ import { environment } from 'src/environments/environment';
 import { AngularFireStorageModule } from '@angular/fire/storage';
 import { AngularFireDatabaseModule } from "@angular/fire/database";
 import { MatIconModule } from '@angular/material/icon';
+import { PagenotfoundComponent } from './pagenotfound/pagenotfound.component';
 
 @NgModule({
   declarations: [
@@ -32,6 +33,7 @@ import { MatIconModule } from '@angular/material/icon';
     RegistrationComponent,
     HomeComponent,
     ProfileComponent,
+    PagenotfoundComponent,
   ],
   imports: [
     BrowserModule,
