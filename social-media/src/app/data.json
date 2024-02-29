@@ -13,6 +13,20 @@
       "password": "456789",
       "confirmPassword": "456789",
       "id": 2
+    },
+    {
+      "username": "amol123",
+      "email": "amol@gmail.com",
+      "password": "123456789",
+      "confirmPassword": "123456789",
+      "id": 3
+    },
+    {
+      "username": "Amol@12",
+      "email": "amoll@gmail.com",
+      "password": "Al@123",
+      "confirmPassword": "Al@123",
+      "id": 4
     }
   ]
 }
